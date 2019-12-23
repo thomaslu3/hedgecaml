@@ -1,0 +1,33 @@
+Make sure that you are in the hedgecaml 
+directory and run "make play". Terminal must be in full screen.
+
+The command line will then ask you if you would like to load a saved game.
+If you type "y" and there is a saved game, the saved game will resume.
+Otherwise you will be told that no saved file has been found and 
+rerouted to the same prompt. If you type "n" you will be prompted with
+difficulties (easy, medium, hard, and sandbox) that vary the amount of money
+you are trying to earn in 100 rounds (for easy, medium, and hard) or the 
+number of rounds you can play for (infinitely many for sandbox).
+
+Once you have entered the game, you can type the command [help] to get a list
+of commands and descriptions. The commands are described below as well.
+
+[Companies] - Displays the companies whose shares are publicly traded on the 
+  market as well as their tickers.
+[Buy] <Ticker> <Amount> - Buys the number of shares given by <Amount>
+  of the company registered as the listing <Ticker>.
+[Sell] <Ticker> <Amount> - Sells the number of shares given by <Amount> of the 
+  company registered as the listing <Ticker>.
+[Balance] - Displays your current balance.
+[Price] <Ticker> - Displays the current price listing for a share of the 
+  company listed as <Ticker>.
+[Portfolio] - Displays your portfolio, which includes the companies whose 
+  shares you own as well as how many.
+[Wait] <Turns (Optional)> - Wait for the number of turns given by <Turns>
+  and see how the market changes. If <Turns> isn't specified then wait for 
+  a single turn.
+[Round] - Displays current round number.
+[Save] - Saves the game.
+[Quit] - Exits the game.
+
+Hope you enjoy playing!

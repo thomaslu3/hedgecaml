@@ -1,0 +1,58 @@
+{
+  "companies": [
+    {
+      "name": "Facebook",
+      "ticker": "FB",
+      "price": 193.62,
+      "volatility": 0.66
+    },
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "price": 255.82,
+      "volatility": 0.7
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "price": 1791.44,
+      "volatility": 0.2
+    },
+    {
+      "name": "Netflix",
+      "ticker": "NFLX",
+      "price": 286.81,
+      "volatility": 0.85
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "price": 1272.25,
+      "volatility": 0.32
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "price": 143.72,
+      "volatility": 0.3
+    },
+    {
+      "name": "Uber",
+      "ticker": "UBER",
+      "price": 31.37,
+      "volatility": 0.73
+    },
+    {
+      "name": "Lyft",
+      "ticker": "LYFT",
+      "price": 42.98,
+      "volatility": 0.65
+    },
+    {
+      "name": "Slack",
+      "ticker": "WORK",
+      "price": 21.94,
+      "volatility": 0.69
+    }
+  ]
+}
